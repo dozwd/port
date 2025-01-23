@@ -230,18 +230,18 @@ main #section1 .card_wrap .profile .my{
     padding: 10px;
 }
 main #section1 .card_wrap .profile .my h4{
-    color: #fff;
+    color: #000000;
     font-family: 'SBAggroB';
-    -webkit-text-stroke: 0.5px #333;
+    /* -webkit-text-stroke: 0.5px #333; */
 }
 main #section1 .card_wrap .profile .my p{
-    color: #fff;
+    color: #000000;
     margin-top: 10px;
-    -webkit-text-stroke: 0.5px #333;
+    /* -webkit-text-stroke: 0.5px #333; */
 }
 main #section1 .card_wrap .profile .my a{
-    color: #fff;
-    -webkit-text-stroke: 0.5px #333;
+    color: #000000;
+    /* -webkit-text-stroke: 0.5px #333; */
 }
 main #section1 .card_wrap .profile .skill{
     width: 350px;
@@ -294,7 +294,8 @@ main #section1 .card_wrap .logo .hobby_wrap{
     left: 50%;
     transform: translateX(-50%);
     top: 100px;
-    -webkit-text-stroke: 0.5px #333;
+    /* -webkit-text-stroke: 0.5px #333; */
+    color: #000000;
 }
 main #section1 .card_wrap .logo .hobby_wrap::after{
     content: '';
@@ -326,7 +327,8 @@ main #section1 .card_wrap .logo .pic_wrap{
     font-size: 20px;
     /* margin: 0; */
     text-align: center;
-    -webkit-text-stroke: 0.5px #333;
+    /* -webkit-text-stroke: 0.5px #333; */
+    color: #000000;
     
 }
 main #section1 .card_wrap .logo .pic_wrap .pics{
@@ -338,6 +340,7 @@ main #section1 .card_wrap .logo .pic_wrap .pics{
 main #section1 .card_wrap .logo .pic_wrap .pics h5{
     font-size: 36px;
     -webkit-text-stroke: 2px #333;
+    color: #fff;
 }
 main #section1 .card_wrap .logo .pic_wrap .pics h5 span{
     color: #Cf2323;
@@ -398,7 +401,8 @@ main #section1 .card_wrap  .hobby p{
     font-size: 20px;
     padding: 10px;
     font-family: 'SBAggroB';
-    -webkit-text-stroke: 0.5px #333;
+    /* -webkit-text-stroke: 0.5px #333; */
+    color: #000000;
 }
 /* coding 영역 */
 main #section2 {
@@ -875,7 +879,7 @@ main #section7 .contact .contact_wrap{
     gap:50px;
 }
 main #section7 .contact .contact_wrap h4{
-    color: #fff;
+    color: #000000;
     font-family: "SBAggroB";
     font-weight: bold;
     text-align: center;
@@ -886,7 +890,7 @@ main #section7 .contact .contact_wrap div{
     text-align: center;
 }
 main #section7 .contact .contact_wrap h4 a{
-    color: #fff;
+    color: #000000;
     -webkit-text-stroke: 0.5px #333;
 
     
